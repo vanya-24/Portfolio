@@ -12,11 +12,7 @@ nav{
     color:#fff;
 }
 #about{
-    /* background-image: url('../images/portfolio.jpg'); */
-    /* background-image: url("../images/bg3.jpg");
-    background-repeat: no-repeat;
-    background-size: 1600px 1500px; */
-    background-color: #FEE9B3;
+    background-color: #a3c8ae;
 }
 
 #resume:hover{
